@@ -20,13 +20,13 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing - you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape
 
 * What field is the company in?
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* What have been the major trends and innovations of this field over the last 5-10 years?
 
 * What are the other major companies in this field?
 
